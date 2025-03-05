@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-05 at 11 49 44_87ed742a](https://github.com/user-attachments/assets/fe44e340-0047-4134-b74b-f7d1420af0a6)###  DATE: 05/03/2025
+###  DATE: 05/03/2025
 
 ###  NAME: POOJASRI.L
 ###  ROLL NO :212223220076
