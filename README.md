@@ -2,7 +2,7 @@
 
 ###  NAME: POOJASRI.L
 ###  ROLL NO :212223220076
-###  DEPARTMENT: B.TECH IT 
+###  DEPARTMENT: B.TECH (IT)
 
 
 
@@ -88,11 +88,9 @@ The main features of LPC2148 include the following.
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
+#include "stdio.h"
 int main(void)
 {
-  HAL_Init();
-  SystemClock_Config();
-  MX_GPIO_Init(); 
   while (1)
   {
     HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0, GPIO_PIN_RESET);
@@ -107,7 +105,12 @@ int main(void)
 
 
 ## OUTPUT  :
-![Screenshot (30)](https://github.com/user-attachments/assets/5ec9e727-eb03-4af0-96cb-d97c5e5590a6)
+![WhatsApp Image 2025-03-05 at 11 43 27_ccd44b87](https://github.com/user-attachments/assets/25c4333f-c474-4048-b45d-4d93bccb9589)
+
+![WhatsApp Image 2025-03-05 at 11 43 28_ec23e781](https://github.com/user-attachments/assets/c6e9d0ea-4c75-4385-83d3-e6cdd93f387d)
+
+
+
 
  
  
