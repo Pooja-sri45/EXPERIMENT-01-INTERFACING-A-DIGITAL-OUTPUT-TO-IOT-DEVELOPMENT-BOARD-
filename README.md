@@ -1,4 +1,4 @@
-###  DATE: 05/03/2025
+![WhatsApp Image 2025-03-05 at 11 49 44_87ed742a](https://github.com/user-attachments/assets/fe44e340-0047-4134-b74b-f7d1420af0a6)###  DATE: 05/03/2025
 
 ###  NAME: POOJASRI.L
 ###  ROLL NO :212223220076
@@ -105,9 +105,10 @@ int main(void)
 
 
 ## OUTPUT  :
-![WhatsApp Image 2025-03-05 at 11 43 27_ccd44b87](https://github.com/user-attachments/assets/25c4333f-c474-4048-b45d-4d93bccb9589)
+![WhatsApp Image 2025-03-05 at 11 49 33_388b71b4](https://github.com/user-attachments/assets/1d1ed2c2-41bb-4b50-b9eb-1ee45e6062c1)
 
-![WhatsApp Image 2025-03-05 at 11 43 28_ec23e781](https://github.com/user-attachments/assets/c6e9d0ea-4c75-4385-83d3-e6cdd93f387d)
+![WhatsApp Image 2025-03-05 at 11 49 44_8289b26d](https://github.com/user-attachments/assets/80bad6fb-a8e3-4509-9124-0c83a4551138)
+
 
 
 
